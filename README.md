@@ -10,5 +10,9 @@ https://portal.azure.com/#@fiap.com.br/resource/subscriptions/e48ae764-a415-4458
 
 usuario do banco:
 admsql
+
 senha do banco:
 devops@Fiap2tds
+
+
+Nao se esqueca que temos mais 3 pontos na sprint por conta da atividade feita em sala
